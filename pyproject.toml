@@ -11,6 +11,9 @@ dependencies = [
     "pyspellchecker (==0.8.4)",
 ]
 
+[tool.poetry]
+package-mode = false
+
 [project.optional-dependencies]
 dev = [
     
